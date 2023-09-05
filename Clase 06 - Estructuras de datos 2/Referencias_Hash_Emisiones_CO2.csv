@@ -1,0 +1,200 @@
+,Código de país,Clave_Hash,Nombre del país,Región
+1,ABW,98,Aruba,América Latina y Caribe
+2,AND,51,Andorra,Europa y Asia Central
+3,AFG,6,Afganistán,Sur de Asia
+4,AGO,45,Angola,África subsahariana
+5,ALB,87,Albania,Europa y Asia Central
+6,ARE,76,Emiratos Árabes Unidos,Oriente Medio y Norte de África
+7,ARG,78,Argentina,América Latina y Caribe
+8,ARM,84,Armenia,Europa y Asia Central
+9,ATG,40,Antigua y Barbuda,América Latina y Caribe
+10,AUS,83,Australia,Asia Oriental y Asia-Pacífico
+11,AUT,84,Austria,Europa y Asia Central
+12,AZE,24,Azerbaiyán,Europa y Asia Central
+13,BDI,7,Burundi,África subsahariana
+14,BEL,41,Bélgica,Europa y Asia Central
+15,BEN,43,Benín,África subsahariana
+16,BFA,61,Burkina Faso,África subsahariana
+17,BGD,95,Bangladés,Sur de Asia
+18,BGR,9,Bulgaria,Europa y Asia Central
+19,BHR,40,Baréin,Oriente Medio y Norte de África
+20,BHS,41,Bahamas,América Latina y Caribe
+21,BIH,61,Bosnia y Herzegovina,Europa y Asia Central
+22,BLR,64,Bielorrusia,Europa y Asia Central
+23,BLZ,72,Belice,América Latina y Caribe
+24,BMU,98,Bermudas,Norteamérica
+25,BOL,51,Bolivia,América Latina y Caribe
+26,BRA,33,Brasil,América Latina y Caribe
+27,BRB,34,Barbados,América Latina y Caribe
+28,BRN,46,Brunéi,Asia Oriental y Asia-Pacífico
+29,BTN,8,Bután,Sur de Asia
+30,BWA,88,Botsuana,África subsahariana
+31,CAF,72,República Centroafricana,África subsahariana
+32,CAN,80,Canadá,Norteamérica
+33,CHE,88,Suiza,Europa y Asia Central
+34,CHL,95,Chile,América Latina y Caribe
+35,CHN,97,China,Asia Oriental y Asia-Pacífico
+36,CIV,36,Costa de Marfil,África subsahariana
+37,CMR,56,Camerún,África subsahariana
+38,COG,7,Congo (República),África subsahariana
+39,COL,12,Colombia,América Latina y Caribe
+40,COM,13,Comoras,África subsahariana
+41,CPV,53,Cabo Verde,África subsahariana
+42,CRI,2,Costa Rica,América Latina y Caribe
+43,CUB,88,Cuba,América Latina y Caribe
+44,CYM,23,Islas Caimán,América Latina y Caribe
+45,CYP,26,Chipre,Europa y Asia Central
+46,CZE,46,República Checa,Europa y Asia Central
+47,DEU,72,Alemania,Europa y Asia Central
+48,DJI,15,Yibuti,Oriente Medio y Norte de África
+49,DMA,0,Dominica,América Latina y Caribe
+50,DNK,41,Dinamarca,Europa y Asia Central
+51,DOM,74,República Dominicana,América Latina y Caribe
+52,DZA,3,Argelia,Oriente Medio y Norte de África
+53,ECU,71,Ecuador,América Latina y Caribe
+54,EGY,99,Egipto,Oriente Medio y Norte de África
+55,ERI,24,Eritrea,África subsahariana
+56,ESP,62,España,Europa y Asia Central
+57,EST,66,Estonia,Europa y Asia Central
+58,ETH,85,Etiopía,África subsahariana
+59,FIN,11,Finlandia,Europa y Asia Central
+60,FJI,37,Fiyi,Asia Oriental y Asia-Pacífico
+61,FRA,77,Francia,Europa y Asia Central
+62,FRO,91,Islas Feroe,Europa y Asia Central
+63,FSM,20,Micronesia (Estados Federados),Asia Oriental y Asia-Pacífico
+64,GAB,12,Gabón,África subsahariana
+65,GBR,59,Reino Unido,Europa y Asia Central
+66,GEO,49,Georgia,Europa y Asia Central
+67,GHA,28,Ghana,África subsahariana
+68,GIN,72,Guinea,África subsahariana
+69,GMB,84,Gambia,África subsahariana
+70,GNB,15,Guinea-Bisáu,África subsahariana
+71,GNQ,30,Guinea Ecuatorial,África subsahariana
+72,GRC,40,Grecia,Europa y Asia Central
+73,GRD,41,Granada,América Latina y Caribe
+74,GRL,49,Groenlandia,Europa y Asia Central
+75,GTM,12,Guatemala,América Latina y Caribe
+76,GUY,55,Guyana,América Latina y Caribe
+77,HKG,88,"Hong Kong (RAE, República Popular China)",Asia Oriental y Asia-Pacífico
+78,HND,78,Honduras,América Latina y Caribe
+79,HRV,20,Croacia,Europa y Asia Central
+80,HTI,69,Haití,América Latina y Caribe
+81,HUN,5,Hungría,Europa y Asia Central
+82,IDN,39,Indonesia,Asia Oriental y Asia-Pacífico
+83,IND,39,India,Sur de Asia
+84,IRL,71,Irlanda,Europa y Asia Central
+85,IRN,73,Irán,Oriente Medio y Norte de África
+86,IRQ,76,Irak,Oriente Medio y Norte de África
+87,ISL,2,Islandia,Europa y Asia Central
+88,ISR,8,Israel,Oriente Medio y Norte de África
+89,ITA,22,Italia,Europa y Asia Central
+90,JAM,6,Jamaica,América Latina y Caribe
+91,JOR,45,Jordania,Oriente Medio y Norte de África
+92,JPN,72,Japón,Asia Oriental y Asia-Pacífico
+93,KAZ,80,Kazajistán,Europa y Asia Central
+94,KEN,92,Kenia,África subsahariana
+95,KGZ,66,Kirguistán,Europa y Asia Central
+96,KHM,84,Camboya,Asia Oriental y Asia-Pacífico
+97,KIR,20,Kiribati,Asia Oriental y Asia-Pacífico
+98,KNA,58,San Cristóbal y Nieves,América Latina y Caribe
+99,KOR,6,Corea (República),Asia Oriental y Asia-Pacífico
+100,KWT,56,Kuwait,Oriente Medio y Norte de África
+101,LAO,30,Laos,Asia Oriental y Asia-Pacífico
+102,LBN,60,Líbano,Oriente Medio y Norte de África
+103,LBR,64,Liberia,África subsahariana
+104,LBY,71,Libia,Oriente Medio y Norte de África
+105,LCA,78,Santa Lucía,América Latina y Caribe
+106,LIE,68,Liechtenstein,Europa y Asia Central
+107,LKA,26,Sri Lanka,Sur de Asia
+108,LSO,88,Lesoto,África subsahariana
+109,LTU,25,Lituania,Europa y Asia Central
+110,LUX,59,Luxemburgo,Europa y Asia Central
+111,LVA,67,Letonia,Europa y Asia Central
+112,MAC,79,"Macao (RAE, República Popular China)",Asia Oriental y Asia-Pacífico
+113,MAR,94,Marruecos,Oriente Medio y Norte de África
+114,MDA,70,Moldavia,Europa y Asia Central
+115,MDG,76,Madagascar,África subsahariana
+116,MDV,91,Maldivas,Sur de Asia
+117,MEX,24,México,América Latina y Caribe
+118,MHL,5,Islas Marshall,Asia Oriental y Asia-Pacífico
+119,MKD,90,Macedonia (Antigua República Yugoslava),Europa y Asia Central
+120,MLI,26,Mali,África subsahariana
+121,MLT,37,Malta,Oriente Medio y Norte de África
+122,MMR,66,Birmania,Asia Oriental y Asia-Pacífico
+123,MNE,84,Montenegro,Europa y Asia Central
+124,MNG,86,Mongolia,Asia Oriental y Asia-Pacífico
+125,MOZ,36,Mozambique,África subsahariana
+126,MRT,23,Mauritania,África subsahariana
+127,MUS,15,Mauricio,África subsahariana
+128,MWI,67,Malaui,África subsahariana
+129,MYS,39,Malasia,Asia Oriental y Asia-Pacífico
+130,NAM,50,Namibia,África subsahariana
+131,NCL,11,Nueva Caledonia,Asia Oriental y Asia-Pacífico
+132,NER,79,Níger,África subsahariana
+133,NGA,24,Nigeria,África subsahariana
+134,NIC,88,Nicaragua,América Latina y Caribe
+135,NLD,82,Países Bajos,Europa y Asia Central
+136,NOR,89,Noruega,Europa y Asia Central
+137,NPL,14,Nepal,Sur de Asia
+138,NZL,24,Nueva Zelanda,Asia Oriental y Asia-Pacífico
+139,OMN,84,Omán,Oriente Medio y Norte de África
+140,PAK,70,Pakistán,Sur de Asia
+141,PAN,73,Panamá,América Latina y Caribe
+142,PER,1,Perú,América Latina y Caribe
+143,PHL,88,Filipinas,Asia Oriental y Asia-Pacífico
+144,PLW,23,Palaos,Asia Oriental y Asia-Pacífico
+145,PNG,69,Papúa Nueva Guinea,Asia Oriental y Asia-Pacífico
+146,POL,5,Polonia,Europa y Asia Central
+147,PRK,97,Corea (República Popular Democrática),Asia Oriental y Asia-Pacífico
+148,PRT,6,Portugal,Europa y Asia Central
+149,PRY,11,Paraguay,América Latina y Caribe
+150,PYF,9,Polinesia Francesa,Asia Oriental y Asia-Pacífico
+151,QAT,40,Catar,Oriente Medio y Norte de África
+152,ROU,36,Rumania,Europa y Asia Central
+153,RUS,20,Rusia,Europa y Asia Central
+154,RWA,64,Ruanda,África subsahariana
+155,SAU,63,Arabia Saudí,Oriente Medio y Norte de África
+156,SDN,49,Sudán,África subsahariana
+157,SEN,80,Senegal,África subsahariana
+158,SGP,44,Singapur,Asia Oriental y Asia-Pacífico
+159,SLB,85,Islas Salomón,Asia Oriental y Asia-Pacífico
+160,SLE,88,Sierra Leona,África subsahariana
+161,SLV,5,El Salvador,América Latina y Caribe
+162,SOM,89,Somalia,África subsahariana
+163,SRB,71,Serbia,Europa y Asia Central
+164,STP,47,Santo Tomé y Príncipe,África subsahariana
+165,SUR,80,Surinam,América Latina y Caribe
+166,SVK,4,Eslovaquia,Europa y Asia Central
+167,SVN,7,Eslovenia,Europa y Asia Central
+168,SWE,29,Suecia,Europa y Asia Central
+169,SWZ,50,Suazilandia,África subsahariana
+170,SYC,89,Seychelles,África subsahariana
+171,SYR,4,Siria,Oriente Medio y Norte de África
+172,TCA,66,Islas Turcas y Caicos,América Latina y Caribe
+173,TCD,69,Chad,África subsahariana
+174,TGO,4,Togo,África subsahariana
+175,THA,21,Tailandia,Asia Oriental y Asia-Pacífico
+176,TJK,93,Tayikistán,Europa y Asia Central
+177,TKM,26,Turkmenistán,Europa y Asia Central
+178,TLS,63,Timor Oriental,Asia Oriental y Asia-Pacífico
+179,TON,51,Tonga,Asia Oriental y Asia-Pacífico
+180,TTO,7,Trinidad y Tobago,América Latina y Caribe
+181,TUN,37,Túnez,Oriente Medio y Norte de África
+182,TUR,41,Turquía,Europa y Asia Central
+183,TZA,79,Tanzania,África subsahariana
+184,UGA,51,Uganda,África subsahariana
+185,UKR,92,Ucrania,Europa y Asia Central
+186,URY,16,Uruguay,América Latina y Caribe
+187,USA,23,Estados Unidos,Norteamérica
+188,UZB,41,Uzbekistán,Europa y Asia Central
+189,VCT,7,San Vicente y las Granadinas,América Latina y Caribe
+190,VEN,63,Venezuela,América Latina y Caribe
+191,VNM,41,Vietnam,Asia Oriental y Asia-Pacífico
+192,VUT,65,Vanuatu,Asia Oriental y Asia-Pacífico
+193,PSE,22,Estado de Palestina,Oriente Medio y Norte de África
+194,WSM,57,Samoa,Asia Oriental y Asia-Pacífico
+195,YEM,45,Yemen,Oriente Medio y Norte de África
+196,ZAF,75,Sudáfrica,África subsahariana
+197,COD,4,Congo (República Democrática),África subsahariana
+198,ZMB,43,Zambia,África subsahariana
+199,ZWE,56,Zimbabue,África subsahariana
